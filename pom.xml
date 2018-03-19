@@ -11,5 +11,6 @@
     <modules>
         <module>spring-cloud-basic</module>
         <module>1.1.1.spring-boot-web-config</module>
+        <module>2.1.1.spring-boot-redis-session-config</module>
     </modules>
 </project>
