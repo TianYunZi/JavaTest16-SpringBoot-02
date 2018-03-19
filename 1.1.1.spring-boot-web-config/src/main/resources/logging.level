@@ -1,0 +1,4 @@
+logging.path=D:\logs
+logging.level.com.favorites=DEBUG
+logging.level.org.springframework.web=INFO
+logging.level.org.hibernate=ERROR
