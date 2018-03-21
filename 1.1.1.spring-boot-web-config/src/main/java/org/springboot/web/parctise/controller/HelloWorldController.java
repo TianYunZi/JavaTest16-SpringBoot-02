@@ -8,7 +8,7 @@ public class HelloWorldController {
 
     @GetMapping("/api/v1/hello")
     public String hello() {
-        return "Hello, world";
+        return "Hello, world" + 1;
     }
 
     @GetMapping("/api/v1/exception")
