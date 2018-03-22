@@ -32,6 +32,6 @@ public class TestWebApplication {
     @Test
     public void helloTest() throws Exception {
         mockMvc.perform(MockMvcRequestBuilders.get("/api/v1/hello").accept(MediaType.APPLICATION_JSON_UTF8))
-                .andExpect(status().isOk()).andExpect(content().string(equalTo("Hello, world")));
+                .andExpect(status().isOk()).andExpect(content().string(equalTo("Hello, world" + 1)));
     }
 }
