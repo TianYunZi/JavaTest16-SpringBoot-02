@@ -12,5 +12,11 @@
         <module>spring-cloud-basic</module>
         <module>1.1.1.spring-boot-web-config</module>
         <module>2.1.1.spring-boot-redis-session-config</module>
+        <module>3.1.1.spring-data-jpa-config</module>
+        <module>4.1.2.spring-mybatis-multidatasource</module>
+        <module>5.1.1.spring-boot-rabbitmq-config</module>
+        <module>5.1.2.spring-boot-rabbitmq-receiver</module>
+        <module>6.1.1.spring-boot-schedule</module>
+        <module>7.1.1.spring-boot-actuator-config</module>
     </modules>
 </project>
