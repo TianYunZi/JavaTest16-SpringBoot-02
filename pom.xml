@@ -18,5 +18,6 @@
         <module>5.1.2.spring-boot-rabbitmq-receiver</module>
         <module>6.1.1.spring-boot-schedule</module>
         <module>7.1.1.spring-boot-actuator-config</module>
+        <module>8.1.1.spring-boot-security-config</module>
     </modules>
 </project>
